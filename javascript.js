@@ -1,1 +1,3 @@
-// M & J are working on this
+var searchTxt = document.getElementById("searchTxt");
+
+

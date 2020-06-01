@@ -1,0 +1,11 @@
+#searchTerm {
+    float: right;
+    margin-left: auto;
+    background-color: white;
+    fill: white;
+}
+
+.row {
+    color: black;
+    float: none;
+}
